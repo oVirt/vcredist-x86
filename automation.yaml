@@ -1,0 +1,6 @@
+---
+arch: x86_64
+distro: el7
+release_branches:
+  ovirt-4.2:
+    - ovirt-4.2
